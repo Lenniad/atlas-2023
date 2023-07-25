@@ -1,0 +1,63 @@
+{
+	"id": -1,
+	"name": "Ushanka Cube",
+	"description": "Awesome reference to a drawing made in the 2017 r/place event, originally done by the geometry dash subreddit discord server (GDS) but this year it was made by the original users who participated in the 2017 event in separate discord server (GDB)",
+	"links": {
+		"subreddit": [
+			"SquonkSquad"
+		],
+		"discord": [
+			"supermario"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				1439,
+				224
+			],
+			[
+				1446,
+				224
+			],
+			[
+				1447,
+				225
+			],
+			[
+				1447,
+				228
+			],
+			[
+				1446,
+				228
+			],
+			[
+				1446,
+				231
+			],
+			[
+				1439,
+				231
+			],
+			[
+				1439,
+				228
+			],
+			[
+				1438,
+				228
+			],
+			[
+				1438,
+				225
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1443,
+			228
+		]
+	}
+}
